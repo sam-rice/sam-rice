@@ -18,7 +18,7 @@ Check out my recent project [Overlook Hotel](https://github.com/sam-rice/overloo
 
 ### What I'm Currently Learning
 
-As a lover of maps and history, I'm currently independently researching the ArcGIS API, and how to make public historical data more fun to interact with and explore via web applications. I should have a new personal project that uses ArcGIS here soon!
+As a lover of maps and history, I'm currently independently researching the [ArcGIS API](https://developers.arcgis.com/), and how to make public historical data more fun to interact with and explore via web applications. I should have a new personal project that uses ArcGIS here soon!
 
 ##
 
