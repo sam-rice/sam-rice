@@ -12,7 +12,7 @@ I'm currently looking for my first full-time role in tech as a Junior Software D
 
 ### Recent Work
 
-Check out my recent project [Overlook Hotel](https://github.com/sam-rice/overlook-hotel) to see some recent work of mine! This was a vanilla JS project that shows off some UI/UX design that I'm pretty proud of.
+Check out my project ["Rancid Tomatillos"](https://github.com/sam-rice/rancid-tomatillos) to see some recent work of mine! This is a React project that emulates an IMDb-type experience that I'm pretty proud of. It uses a deployed [Node.js/Express backend](https://github.com/sam-rice/rancid-tomatillos-api) that I also built.
 
 ##
 
