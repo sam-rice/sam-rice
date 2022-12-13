@@ -6,7 +6,7 @@ I'm a current student in Turing School of Software & Design's Front-End Engineer
 
 ### What I'm Looking For
 
-I'm currently looking for my first full-time role in tech as a Junior Software Developer. I'm hoping to join a team that values autonomy, where feeling a sense of ownership over one's work is the norm. As my work experience would suggest, I'm a highly visual learner/thinker, and I'm particularly excited by media and UI/UX design. But ultimately, I'm interested in any role that offers oppurtunities for growth and exposure to new technology.
+I'm currently looking for my first full-time role in tech as a Junior Software Developer. I'm hoping to join a team that values autonomy, where feeling a sense of ownership over one's work is the norm. As my work experience would suggest, I'm a highly visual learner/thinker, and I'm particularly excited by media and UI/UX design. But ultimately, I'm interested in any role that offers opportunities for growth and exposure to new technology.
 
 ##
 
