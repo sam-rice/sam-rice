@@ -12,7 +12,7 @@ I'm currently looking for my first full-time role in tech as a Junior Software D
 
 ### Recent Work
 
-Check out my project ["Rancid Tomatillos"](https://github.com/sam-rice/rancid-tomatillos) to see some recent work of mine! This is a React project that emulates an IMDb-type experience that I'm pretty proud of. It uses a deployed [Node.js/Express backend](https://github.com/sam-rice/rancid-tomatillos-api) that I also built.
+Check out my React project ["Met Explorer"](https://github.com/sam-rice/met-explorer) to see some recent work of mine! I taught myself Redux in order to build it, and as a history-lover, it's something I'm pretty proud of. The app allows users to browse, save, and annotate the Metropolitan Museum of Art's massive collection of artwork and historical artifacts.
 
 ##
 
