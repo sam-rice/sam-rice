@@ -1,4 +1,4 @@
-### Hello!  🪐
+### Hello!  🚀
 
 My name is Sam, and I'm a current student in Turing School of Software & Design's Front-End Engineering Program and a former film production technician. My time operating Steadicam and traditional camera systems on film sets taught me a lot about creative collaboration and technically-precise communication, which are skills I plan to bring with me into my next role in tech. I'm naturally curious about new technology, and plan to continue using this space to showcase what I'm learning and working on as my career in tech progresses.
 
