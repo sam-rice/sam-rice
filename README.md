@@ -57,7 +57,7 @@ Check out my React project ["Met Explorer"](https://github.com/sam-rice/met-expl
 
 ### What I'm Currently Learning
 
-As a lover of maps and history, I'm currently independently researching the [ArcGIS API](https://developers.arcgis.com/), and how to make public historical data more fun to interact with and explore via web applications. I should have a new personal project that uses ArcGIS here soon!
+As a recent convert to TypeScript and static-typing, I've been teaching myself Java so that I can continue to build more full-stack personal projects. Working with more back-end technologies, in general, is an overall goal of mine, and I plan to have a Java Spring Boot project here soon! 
 
 ##
 
@@ -65,19 +65,3 @@ As a lover of maps and history, I'm currently independently researching the [Arc
 
 email: samsrice@gmail.com\
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/-sam-rice/)
-
-
-<!--
-**sam-rice/sam-rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
