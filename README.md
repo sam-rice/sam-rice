@@ -39,8 +39,8 @@ I'm currently looking for my first full-time role in tech as a Junior Software D
 ### Misc.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-CA4245?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-8b0000?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/Webpack-075cdb?style=for-the-badge&logo=webpack" />
@@ -56,8 +56,13 @@ Check out my React project ["Met Explorer"](https://github.com/sam-rice/met-expl
 ##
 
 ### What I'm Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  
+</p>
 
-As a recent convert to TypeScript and static-typing, I've been teaching myself Java so that I can continue to build more full-stack personal projects. Working with more back-end technologies, in general, is an overall goal of mine, and I plan to have a Java Spring Boot project here soon! 
+Since moving over to TypeScript and discovering the awesomeness of statically-typed languages, I've been teaching myself Java so that I can continue to build more full-stack personal projects and also ship code on the back-end. Working with more back-end technologies, in general, is an overall goal of mine, and I plan to have a Java Spring Boot project to show here soon! 
 
 ##
 
