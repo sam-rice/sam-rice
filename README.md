@@ -1,6 +1,8 @@
 ### Hello! 🎥
 
-My name is Sam, and I'm a current student in Turing School of Software & Design's Front-End Engineering Program and a former film production technician. My time operating Steadicam and traditional camera systems on film sets taught me a lot about creative collaboration and technically-precise communication, which are skills I plan to bring with me into my next role in tech. I'm naturally curious about new technology, and plan to continue using this space to showcase what I'm learning and working on as my career in tech progresses.
+My name is Sam, and I'm a current student in Turing School of Software & Design's Front-End Engineering Program and a former film production technician. My time operating Steadicam and traditional camera systems on film sets taught me a lot about creative collaboration and technically-precise communication, which are skills I plan to bring with me into my next role in tech. I'm naturally curious about new technology, passionate about graphic design, and plan to continue using this space to showcase what I'm learning and working on as my career progresses.
+
+I also play guitar in a psychedelic-rock band, and am a lover of trees and the great PNW. :evergreen_tree: :sunglasses:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/-sam-rice/)
 
@@ -8,7 +10,7 @@ My name is Sam, and I'm a current student in Turing School of Software & Design'
 
 ### What I'm Looking For
 
-I'm currently looking for my first full-time role in tech as a Junior Software Developer. I'm hoping to join a team that values autonomy, where feeling a sense of ownership over one's work is the norm. As my work experience would suggest, I'm a highly visual learner/thinker, and I'm particularly excited by media and UI/UX development. But ultimately, I'm interested in any role that offers opportunities for growth and exposure to new technology.
+I'm currently looking for my first full-time role in tech as a Software Developer. Most of my experience is in Front-End tech, but I plan to pivot to a Full-Stack position within the first year of my career, and am working towards that goal every day. I'm hoping to join a team that values autonomy, where being self-motivated is required, and feeling a sense of ownership over one's work is the norm. As my work experience would suggest, I'm a highly visual learner/thinker, and I'm particularly excited by media and UI/UX development. But ultimately, I'm interested in any role that offers opportunities for growth and exposure to new technology.
 
 ##
 
@@ -19,6 +21,7 @@ I'm currently looking for my first full-time role in tech as a Junior Software D
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,6 +34,7 @@ I'm currently looking for my first full-time role in tech as a Junior Software D
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/Knex.js-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
   <img src="https://img.shields.io/badge/Cypress.io-6e3596?style=for-the-badge&logo=cypress" />
   <img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" />
   <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" />
