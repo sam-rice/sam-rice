@@ -8,12 +8,6 @@ I also play guitar in a psychedelic rock band, and am a lover of trees and the g
 
 ##
 
-### What I'm Looking For
-
-I'm currently looking for my first full-time role in tech as a Software Developer. Most of my experience is in Front-End tech, but I plan to pivot to a Full-Stack position within the first year of my career, and am working towards that goal every day. I'm hoping to join a team that values autonomy, where being self-motivated is required, and feeling a sense of ownership over one's work is the norm. As my work experience would suggest, I'm a highly visual learner/thinker, and I'm particularly excited by media and UI/UX development. But ultimately, I'm interested in any role that offers opportunities for growth and exposure to new technology.
-
-##
-
 ### Tech
 
 <p align="left">
@@ -21,7 +15,6 @@ I'm currently looking for my first full-time role in tech as a Software Develope
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -53,12 +46,6 @@ I'm currently looking for my first full-time role in tech as a Software Develope
 
 ##
 
-### Recent Work
-
-Check out my React project ["Met Explorer"](https://github.com/sam-rice/met-explorer) to see some recent work of mine! I taught myself Redux in order to build it, and as a history-lover, it's something I'm pretty proud of. The app allows users to browse, save, and annotate the Metropolitan Museum of Art's massive collection of artwork and historical artifacts.
-
-##
-
 ### What I'm Currently Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -66,7 +53,7 @@ Check out my React project ["Met Explorer"](https://github.com/sam-rice/met-expl
   
 </p>
 
-Since moving over to TypeScript and discovering the awesomeness of statically-typed languages, I've been teaching myself Java so that I can continue to build more full-stack personal projects and also ship code on the back-end. Working with more back-end technologies, in general, is an overall goal of mine, and I plan to have a Java Spring Boot project to show here soon! 
+Since moving over to TypeScript and discovering the awesomeness of statically-typed languages, I've been teaching myself Java so that I can continue to build more full-stack personal projects and also ship code on the back-end. Working with more back-end technologies, in general, is an overall goal of mine.
 
 ##
 
