@@ -1,6 +1,6 @@
 ### Hello! 🎥
 
-My name is Sam, and I'm a current student in Turing School of Software & Design's Front-End Engineering Program and a former film production technician. My time operating Steadicam and traditional camera systems on film sets taught me a lot about creative collaboration and technically-precise communication, which are skills I plan to bring with me into my next role in tech. I'm naturally curious about new technology, passionate about graphic design, and plan to continue using this space to showcase what I'm learning and working on as my career progresses.
+My name is Sam, and I'm a Software Developer with previous experience in the film and media production industry. Collaborating across departments on technical matters in a fast-based environment has been in my wheelhouse for years, and is part of a skill set I've leveraged in software development too. I enjoy designing scalable systems from a high-level perspective, as well as digging into aesthetic and implementation details. I'm naturally curious about new technology, passionate about graphic design, and plan to continue using this space to showcase what I'm learning and working on as my career progresses.
 
 I also play guitar in a psychedelic rock band, and am a lover of trees and the great PNW. :evergreen_tree: :sunglasses:
 
