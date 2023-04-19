@@ -54,10 +54,3 @@ I also play guitar in a psychedelic rock band, and am a lover of trees and the g
 </p>
 
 Since moving over to TypeScript and discovering the awesomeness of statically-typed languages, I've been teaching myself Java so that I can continue to build more full-stack personal projects and also ship code on the back-end. Working with more back-end technologies, in general, is an overall goal of mine.
-
-##
-
-### How to Reach Me
-
-email: samsrice@gmail.com\
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/-sam-rice/)
