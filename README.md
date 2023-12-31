@@ -18,8 +18,9 @@ If your organization is searching for a growth-minded developer with professiona
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-In my most recent role, our project featured an array of Java/Spring Boot back end services, which I regularly consumed and interacted with on the client side. Since then, I've been teaching myself Java so that I can better understand the software architecture behind enterprise-level projects in the future, and to ship code on the back end. Becoming a full stack developer is a central career goal of mine.
+In my most recent role, our project featured a series of Java/Spring Boot back end services, which I regularly consumed and interacted with on the client side. Since then, I've been teaching myself Java so that I can better understand the software architecture behind enterprise-level projects in the future, and also ship code on the back end. Becoming a full stack developer is a central career goal of mine.
 
+##
 
 ### Tech
 
