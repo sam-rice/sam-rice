@@ -15,7 +15,7 @@ If your organization is searching for a growth-minded developer with professiona
 ### What I'm Currently Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 In my most recent role, our project featured a series of Java/Spring Boot back end services, which I regularly consumed and interacted with on the client side. Since then, I've been teaching myself Java so that I can better understand the software architecture behind enterprise-level projects in the future, and also ship code on the back end. Becoming a full stack developer is a central career goal of mine.
@@ -38,6 +38,7 @@ In my most recent role, our project featured a series of Java/Spring Boot back e
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
