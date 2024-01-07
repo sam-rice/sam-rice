@@ -20,6 +20,8 @@ If your organization is searching for a growth-minded developer with professiona
 
 In my most recent role, our project featured a series of Java/Spring Boot back end services, which I regularly consumed and interacted with on the client side. Since then, I've been teaching myself Java so that I can better understand the software architecture behind enterprise-level projects in the future, and also ship code on the back end. Becoming a full stack developer is a central career goal of mine.
 
+Check out my recent personal project: [Reading Room](https://github.com/sam-rice/reading-room-api)
+
 ##
 
 ### Tech
