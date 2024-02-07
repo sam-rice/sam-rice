@@ -26,7 +26,7 @@ Check out my recent Java project: [Reading Room](https://github.com/sam-rice/rea
 
 ### Tech
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -36,9 +36,9 @@ Check out my recent Java project: [Reading Room](https://github.com/sam-rice/rea
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-### Frameworks/GSM/misc.
+### Frameworks/GSM/Libraries
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -56,7 +56,7 @@ Check out my recent Java project: [Reading Room](https://github.com/sam-rice/rea
 
 ### Misc.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-CA4245?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
@@ -66,4 +66,5 @@ Check out my recent Java project: [Reading Room](https://github.com/sam-rice/rea
   <img src="https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm" />
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
+  <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" />
 </p>
