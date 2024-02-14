@@ -67,7 +67,7 @@ As a developer, some of my core principles include:
 - MODULARITY: Keep code as reusable and scalable as possible. Imagine ways for existing patterns to leverage one another and use abstraction to maintain a separation of concerns.
 - DOCUMENTATION: Use and write documentation as often as possible. It will likely save you or someone else time and frustration in the future.
 - UNIFORMITY: Read, understand, replicate design patterns when contributing to an existing codebase. This makes future refactors easier and keeps developers within the same mindset. 
-- REFACTORING: Whether replacing an entire package or a single line of code, always understand why the current solution was chosen before replacing it (Chesterton's Fence).
+- REFACTORING: Whether replacing an entire package or a single line of code, always understand why the current solution was chosen before replacing it ([Chesterton's Fence](https://fs.blog/chestertons-fence/)).
 - ACCESSIBILITY: Define a minimum a11y standard for all new features and stories and stick with it as a team. Refactoring existing code for a11y is more expensive than doing it right from the start. 
 - DETAILS: There's no such thing as too much aesthetic detail, and there's almost always a way to execute a detailed design in a dev-friendly way.
 - CODE STYLE: Code can and should be beautiful too.
