@@ -4,36 +4,11 @@ My name is Sam, and I'm a Software Developer with previous experience in IT cons
 
 As my background would suggest, I'm passionate about all things visual/design-related, regularly digging into aesthetic details and searching for ways to keep code clean and maintainable. I'm naturally curious about new technology, passionate about graphic design, and plan to continue using this space to showcase what I'm learning and working on as my career progresses.
 
-<br />
-
-As a developer, some of my core principles include:
-- MODULARITY: Keep code as reusable and scalable as possible. Imagine ways for existing patterns to leverage one another and use abstraction to maintain a separation of concerns.
-- DOCUMENTATION: Use and write documentation as often as possible. It will likely save you or someone else time and frustration in the future.
-- UNIFORMITY: Read, understand, replicate design patterns when contributing to an existing codebase. This makes future refactors easier and keeps developers within the same mindset. 
-- REFACTORING: Whether replacing an entire module or a single line of code, always understand why the current solution was chosen before replacing it (Chesterton's Fence).
-- ACCESSIBILITY: Define a minimum a11y standard for all new features and stories and stick with it as a team. Refactoring existing code for a11y is more expensive than doing it right from the start. 
-- DETAILS: There's no such thing as too much aesthetic detail, and there's almost always a way to execute a detailed design in a dev-friendly way.
-- CODE STYLE: Code can and should be beautiful too.
-
-<br />
-
 In my spare time, I'm a film nerd, musician, and—being an eastern Washington state native—a lover of trees and the outdoors. 🌲
 
 If your organization is searching for a growth-minded developer with professional experience, I can be reached at samsrice@gmail.com.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/-sam-rice/)
-
-##
-
-### What I'm Currently Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</p>
-
-In my most recent role, the project I worked on featured a series of Java/Spring Boot back end services, which I regularly consumed and interacted with on the client side. Since then, I've been teaching myself Java so that I can better understand the software architecture behind enterprise-level projects in the future, and also ship code on the back end. Becoming a full stack developer is a central career goal of mine.
-
-Check out my recent Java project: [Reading Room](https://github.com/sam-rice/reading-room-api)
 
 ##
 
@@ -81,3 +56,28 @@ Check out my recent Java project: [Reading Room](https://github.com/sam-rice/rea
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
   <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" />
 </p>
+
+##
+
+<br />
+
+As a developer, some of my core principles include:
+- MODULARITY: Keep code as reusable and scalable as possible. Imagine ways for existing patterns to leverage one another and use abstraction to maintain a separation of concerns.
+- DOCUMENTATION: Use and write documentation as often as possible. It will likely save you or someone else time and frustration in the future.
+- UNIFORMITY: Read, understand, replicate design patterns when contributing to an existing codebase. This makes future refactors easier and keeps developers within the same mindset. 
+- REFACTORING: Whether replacing an entire package or a single line of code, always understand why the current solution was chosen before replacing it (Chesterton's Fence).
+- ACCESSIBILITY: Define a minimum a11y standard for all new features and stories and stick with it as a team. Refactoring existing code for a11y is more expensive than doing it right from the start. 
+- DETAILS: There's no such thing as too much aesthetic detail, and there's almost always a way to execute a detailed design in a dev-friendly way.
+- CODE STYLE: Code can and should be beautiful too.
+
+##
+
+### What I'm Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
+
+In my most recent role, the project I worked on featured a series of Java/Spring Boot back end services, which I regularly consumed and interacted with on the client side. Since then, I've been teaching myself Java so that I can better understand the software architecture behind enterprise-level projects in the future, and also ship code on the back end. Becoming a full stack developer is a central career goal of mine.
+
+Check out my recent Java project: [Reading Room](https://github.com/sam-rice/reading-room-api)
