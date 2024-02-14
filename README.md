@@ -4,6 +4,19 @@ My name is Sam, and I'm a Software Developer with previous experience in IT cons
 
 As my background would suggest, I'm passionate about all things visual/design-related, regularly digging into aesthetic details and searching for ways to keep code clean and maintainable. I'm naturally curious about new technology, passionate about graphic design, and plan to continue using this space to showcase what I'm learning and working on as my career progresses.
 
+<br />
+
+As a developer, some of my core principles include:
+- MODULARITY: Keep code as reusable and scalable as possible. Imagine ways for existing patterns to leverage one another and use abstraction to maintain a separation of concerns.
+- DOCUMENTATION: Use and write documentation as often as possible. It will likely save you or someone else time and frustration in the future.
+- UNIFORMITY: Read, understand, replicate design patterns when contributing to an existing codebase. This makes future refactors easier and keeps developers within the same mindset. 
+- REFACTORING: Whether replacing an entire module or a single line of code, always understand why the current solution was chosen before replacing it (Chesterton's Fence).
+- ACCESSIBILITY: Define a minimum a11y standard for all new features and stories and stick with it as a team. Refactoring existing code for accessibility is more expensive than doing it right from the start. 
+- DETAILS: There's no such thing as too much aesthetic detail, and there's almost always a way to execute a detailed design in a dev-friendly way.
+- CODE STYLE: Code can and should be beautiful too.
+
+<br />
+
 In my spare time, I'm a film nerd, musician, and—being an eastern Washington state native—a lover of trees and the outdoors. 🌲
 
 If your organization is searching for a growth-minded developer with professional experience, I can be reached at samsrice@gmail.com.
