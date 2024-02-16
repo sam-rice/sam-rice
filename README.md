@@ -68,7 +68,7 @@ Here are some of my core engineering principles that I try to keep in mind:
 - MODULARITY: Keep code as reusable and scalable as possible. Find ways to reuse design/render patterns while keeping components and logic decoupled.
 - DOCUMENTATION: Use and write documentation as often as possible. It will likely save someone time and frustration in the future.
 - UNIFORMITY: Read, understand, and extend established design patterns when contributing to an existing codebase. This makes future refactors simpler and keeps developers working within the same mindset. 
-- REFACTORING: Whether replacing an entire package or a single line of code, always understand why the current solution was chosen before replacing it (Chesterton's Fence principle).
+- REFACTORING: Whether replacing an entire package or a single line of code, always understand why the current solution was chosen before replacing it ([Chesterton's Fence principle](https://fs.blog/chestertons-fence/)).
 - ACCESSIBILITY: Define a minimum a11y standard for all new features and stories and stick with it as a team. Refactoring existing code for a11y is more expensive than doing it right from the start. 
 - DETAILS: There's no such thing as too much aesthetic detail, and there's almost always a way to execute a detailed design in a dev-friendly way.
 
