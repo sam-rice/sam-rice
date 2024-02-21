@@ -32,6 +32,7 @@ If your organization is searching for a growth-minded developer with professiona
   <img src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/Webpack-075cdb?style=for-the-badge&logo=webpack" />
   <img src="https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm" />
+  <img src="https://img.shields.io/badge/Figma-CA4245?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ### Back-End Tech
@@ -50,7 +51,6 @@ If your organization is searching for a growth-minded developer with professiona
 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/Figma-CA4245?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-8b0000?style=for-the-badge&logo=git" />
