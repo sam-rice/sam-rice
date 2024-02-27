@@ -4,7 +4,7 @@ My name is Sam, and I'm a Software Developer with previous experience in IT cons
 
 As my background would suggest, I'm passionate about all things visual/design-related, regularly digging into aesthetic details and searching for ways to keep code clean and maintainable. I'm naturally curious about new technology, passionate about graphic design, and plan to continue using this space to showcase what I'm learning and working on as my career progresses.
 
-In my spare time, I'm a film nerd, musician, and—being an eastern Washington state native—a lover of trees and the outdoors. 🌲
+In my spare time, I'm a film and history nerd, map-lover, and—being an eastern Washington state native—a lover of trees and the outdoors. 🌲
 
 If your organization is searching for a growth-minded developer with professional experience, I can be reached at samsrice@gmail.com.
 
