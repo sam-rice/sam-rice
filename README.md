@@ -2,7 +2,7 @@
 
 My name is Sam, and I'm a Software Developer with previous experience in IT consulting and film and media production. In a recent role, I had the opportunity to help bootstrap and architect scalable, modular UI codebases for enterprise-level fintech platforms. I'm also a Core Contributor (Software Engineer) at the open-source project, [Greenstand](https://github.com/Greenstand), which is an organization using software to help mitigate climate impacts and extreme poverty across the globe.
 
-As my background would suggest, I'm passionate about all things visual/design-related, regularly digging into UX details and searching for ways to keep code clean and maintainable. I'm naturally curious about new technology (AI, Web3, and blockchain, to name a few), passionate about graphic design, and plan to continue using this space to showcase what I'm learning and working on as my career progresses.
+As my background would suggest, I'm passionate about all things visual/design-related, regularly digging into UX details and searching for ways to keep code clean and maintainable. I'm naturally curious about new technology, passionate about graphic design, and plan to continue using this space to showcase what I'm learning and working on as my career progresses.
 
 In my spare time, I'm a film and history nerd, map-lover, and—being an eastern Washington state native—a lover of trees and the outdoors. 🌲
 
